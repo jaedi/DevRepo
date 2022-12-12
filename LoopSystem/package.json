@@ -20,7 +20,7 @@
     "sass-loader": "^8.0.0"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "materialize-css": "^1.0.0-rc.2",
     "mysql": "^2.18.1",
     "socket.io": "^2.3.0"
